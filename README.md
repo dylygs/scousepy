@@ -7,4 +7,4 @@ This program is a rewrite of jdhenshaw/SCOUSE in Python 3.6. It is a Semi-automa
 
 ## Licensed
 
-This project is Copyright (c) Jeremy Atkins and licensed under the terms of the Apache Software Licence 2.0 license. See the licenses folder for more information.
+This project is licensed under the terms of the Apache Software Licence 2.0 license. See the licenses folder for more information.
