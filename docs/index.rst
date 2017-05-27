@@ -2,7 +2,7 @@ Documentation
 =============
 
 This is the documentation for scousepy.
-This program is a rewrite of jdhenshaw/SCOUSE in Python 3.6. It is a Semi-automated multi-COmponent Universal Spectral-line fitting Engine in PYthon, meapectra in groups & correlating them together
+This program is a rewrite of jdhenshaw/SCOUSE in Python 3.6. It is a Semi-automated multi-COmponent Universal Spectral-line fitting Engine in PYthon, meant to fit spectra in groups & correlate them together
 
 .. toctree::
   :maxdepth: 2
