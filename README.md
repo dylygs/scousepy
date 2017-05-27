@@ -1,12 +1,10 @@
-# A rewrite of jdhenshaw/SCOUSE in Python 3.6
+# SCOUSEPy
 
-.. image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
-    :target: http://www.astropy.org
-    :alt: Powered by Astropy Badge
+![Powered by Astropy Badge](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)
 
-This program is a rewrite of jdhenshaw/SCOUSE in Python 3.6. It is a Semi-automated multi-COmponent Universal Spectral-line fitting Engine in PYthon, meant to fit spectra in groups & correlate them together
+This program is a rewrite of https://github.com/jdhenshaw/SCOUSE in Python 3.6. It is a Semi-automated multi-COmponent Universal Spectral-line fitting Engine in PYthon, meant to fit spectra in groups & correlate them together
 
 
 ## Licensed
 
-This project is Copyright (c) Jeremy Atkins and licensed under the terms of the Apache Software Licence 2.0 license. See the licenses folder for more information.
+This project is licensed under the terms of the Apache Software Licence 2.0 license. See the licenses folder for more information.
